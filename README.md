@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**DanDanWangEcon/DanDanWangEcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Dandan Wang**, an Assistant Professor of Economics at **Liaoning University**. I specialize in the development and maintenance of machine learning and econometric toolboxes, with a particular emphasis on methods for analyzing complex systems. My work often involves **agent-based models** and **policy simulations** to address critical public policy challenges related to **climate change** and **inequality**.
 
-Here are some ideas to get you started:
+## About Me
+My academic pursuits are driven by a passion for applying advanced **machine learning techniques** to public policy, aiming to tackle some of the most pressing issues of our time. By leveraging **econometric methods**, **machine learning**, and **agent-based models**, I study the intricate interactions between **economic policies**, **climate change**, and **societal well-being**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+- **Machine Learning**: Techniques and applications in economics and public policy.
+- **Econometrics**: Advanced methods for analyzing complex economic relationships.
+- **Agent-Based Models**: Simulation of complex systems with interacting agents.
+- **Inequality**: Understanding and addressing disparities in economic outcomes.
+- **Environment and Climate Change**: Policy impact analysis related to environmental sustainability.
+- **Mental Health**: Examining the economic implications and policy aspects of mental health.
+
+
+## Let's Connect
+I'm always interested in collaborating on research or projects related to econometrics, machine learning, and policy analysis. Feel free to reach out!
+
+📧 **Contact me**:  
+- **dandanwang0614@gmail.com**  
+- **wangdandan@lnu.edu.cn**
+
+## Personal Website
+- **[http://DanDanWangEcon@github.io/](http://DanDanWangEcon@github.io/)**
